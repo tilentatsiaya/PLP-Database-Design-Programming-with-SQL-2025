@@ -2,5 +2,5 @@
 CREATE DATABASE IF NOT EXISTS salesDB;
 
 
--- Write an SQL query to drop (delete) the database called demo.
+-- Write an SQL query to drop (delete) the database called demo!
 DROP DATABASE IF EXISTS demo
