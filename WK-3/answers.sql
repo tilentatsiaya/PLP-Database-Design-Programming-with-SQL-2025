@@ -20,3 +20,6 @@ UPDATE student
 SET age = 20
 WHERE student_id = 2;
 
+
+
+
